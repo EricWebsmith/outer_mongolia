@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/outer_mongolia/static/css/main.1df68bcd.css",
-    "main.js": "/outer_mongolia/static/js/main.b361b7f2.js",
-    "static/js/787.99ec176b.chunk.js": "/outer_mongolia/static/js/787.99ec176b.chunk.js",
+    "main.js": "/outer_mongolia/static/js/main.07e4aaff.js",
+    "static/js/787.b0f42096.chunk.js": "/outer_mongolia/static/js/787.b0f42096.chunk.js",
     "index.html": "/outer_mongolia/index.html",
     "main.1df68bcd.css.map": "/outer_mongolia/static/css/main.1df68bcd.css.map",
-    "main.b361b7f2.js.map": "/outer_mongolia/static/js/main.b361b7f2.js.map",
-    "787.99ec176b.chunk.js.map": "/outer_mongolia/static/js/787.99ec176b.chunk.js.map"
+    "main.07e4aaff.js.map": "/outer_mongolia/static/js/main.07e4aaff.js.map",
+    "787.b0f42096.chunk.js.map": "/outer_mongolia/static/js/787.b0f42096.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1df68bcd.css",
-    "static/js/main.b361b7f2.js"
+    "static/js/main.07e4aaff.js"
   ]
 }

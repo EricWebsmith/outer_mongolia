@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/waimenggu/static/css/main.1df68bcd.css",
-    "main.js": "/waimenggu/static/js/main.9da175a4.js",
-    "static/js/787.99ec176b.chunk.js": "/waimenggu/static/js/787.99ec176b.chunk.js",
-    "index.html": "/waimenggu/index.html",
-    "main.1df68bcd.css.map": "/waimenggu/static/css/main.1df68bcd.css.map",
-    "main.9da175a4.js.map": "/waimenggu/static/js/main.9da175a4.js.map",
-    "787.99ec176b.chunk.js.map": "/waimenggu/static/js/787.99ec176b.chunk.js.map"
+    "main.css": "/outer_mongolia/static/css/main.1df68bcd.css",
+    "main.js": "/outer_mongolia/static/js/main.b361b7f2.js",
+    "static/js/787.99ec176b.chunk.js": "/outer_mongolia/static/js/787.99ec176b.chunk.js",
+    "index.html": "/outer_mongolia/index.html",
+    "main.1df68bcd.css.map": "/outer_mongolia/static/css/main.1df68bcd.css.map",
+    "main.b361b7f2.js.map": "/outer_mongolia/static/js/main.b361b7f2.js.map",
+    "787.99ec176b.chunk.js.map": "/outer_mongolia/static/js/787.99ec176b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1df68bcd.css",
-    "static/js/main.9da175a4.js"
+    "static/js/main.b361b7f2.js"
   ]
 }
